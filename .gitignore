@@ -1,0 +1,26 @@
+# Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Spring Boot
+application-local.properties
+
+# Environment / secrets
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
