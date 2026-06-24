@@ -4,6 +4,8 @@ Juego educativo para adultos mayores que enseña a reconocer estafas y ciberdeli
 
 **Demo en vivo:** [detective-digital-production.up.railway.app](https://detective-digital-production.up.railway.app)
 
+<img width="1562" height="896" alt="image" src="https://github.com/user-attachments/assets/7d60ce48-068a-4b08-a9f3-77d0ea2fdcd1" />
+
 ---
 
 ## ¿Qué es?
